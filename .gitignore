@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+addRandomdata.py
+LMA.py
+magnetic_field.py
+main.py
