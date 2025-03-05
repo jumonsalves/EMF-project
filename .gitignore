@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+error_vs_noise.py
+cost_history.txt
+magnetic_field.gif
+du.gif
